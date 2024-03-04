@@ -5,3 +5,4 @@
 /root/.cache
 /home/olleg/.cache
 /home/olleg/.local/share/Trash
+/home/olleg/docker/ollama/ollama/models

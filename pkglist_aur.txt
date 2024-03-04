@@ -1,6 +1,0 @@
-pamac-aur
-sanoid
-ttf-b612
-ulauncher
-xcursor-breeze
-zramd
