@@ -56,4 +56,11 @@ History for 'tank':
 2024-03-02.17:38:54 zfs set mountpoint=/var/lib/flatpak tank/flatpak
 2024-03-03.16:50:05 zfs set mountpoint=/var/lib/libvirt tank/libvirt-images
 2024-03-03.17:02:00 zfs set mountpoint=/var/lib/libvirt/images tank/libvirt-images
+2024-03-05.17:53:55 zfs snapshot tank/steam@nix
+2024-03-05.19:22:03 zfs create tank/vagrant
+2024-03-06.09:02:04 zfs create tank/vagrant/vagrant_storage_pool
+2024-03-07.15:42:43 zpool set multihost=on tank
+2024-03-07.15:42:49 zpool set multihost=off tank
+2024-03-07.15:44:32 zpool set multihost=on tank
+2024-03-07.15:44:37 zpool set multihost=off tank
 

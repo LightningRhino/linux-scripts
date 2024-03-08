@@ -1,0 +1,9 @@
+freefilesync-bin
+looking-glass
+pamac-aur
+quickemu
+sanoid
+ttf-b612
+ulauncher
+xcursor-breeze
+zramd

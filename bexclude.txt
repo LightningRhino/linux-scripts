@@ -1,3 +1,4 @@
+/var/lib/libvirt/images/*.img
 /var/lib/libvirt/images/alpine/alpine.qcow2
 /var/lib/libvirt/images/win10-veeam/win10-veeam.qcow2
 #/var/lib/libvirt/images/nixos/NixOS.qcow2

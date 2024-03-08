@@ -19,6 +19,7 @@ btrfs-progs
 cantarell-fonts
 chromium
 corectrl
+cronie
 cryptsetup
 device-mapper
 dhclient
@@ -26,6 +27,8 @@ diffutils
 dmidecode
 dmraid
 dnsmasq
+docker
+docker-compose
 dosfstools
 downgrade
 dracut
@@ -127,9 +130,6 @@ noto-fonts-extra
 nss-mdns
 ntfs-3g
 ntp
-nvidia-dkms
-nvidia-hook
-nvidia-inst
 openbsd-netcat
 openssh
 os-prober
@@ -147,6 +147,7 @@ pv
 python
 python-packaging
 qemu-desktop
+rclone
 rebuild-detector
 reflector
 reflector-simple
@@ -164,6 +165,7 @@ swtpm
 sysfsutils
 systemd-sysvcompat
 texinfo
+thefuck
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -175,6 +177,7 @@ ttf-bitstream-vera
 ttf-dejavu
 ttf-fira-mono
 ttf-fira-sans
+ttf-hack-nerd
 ttf-liberation
 ttf-opensans
 tumbler
@@ -183,6 +186,7 @@ unzip
 upower
 usb_modeswitch
 usbutils
+vagrant
 vde2
 vi
 virt-manager
