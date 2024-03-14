@@ -63,4 +63,6 @@ History for 'tank':
 2024-03-07.15:42:49 zpool set multihost=off tank
 2024-03-07.15:44:32 zpool set multihost=on tank
 2024-03-07.15:44:37 zpool set multihost=off tank
+2024-03-08.13:58:37 zfs set recordsize=64k tank/vagrant/vagrant_storage_pool
+2024-03-08.15:00:50 zfs destroy tank/vagrant/vagrant_storage_pool
 
