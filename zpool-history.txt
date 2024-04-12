@@ -65,4 +65,7 @@ History for 'tank':
 2024-03-07.15:44:37 zpool set multihost=off tank
 2024-03-08.13:58:37 zfs set recordsize=64k tank/vagrant/vagrant_storage_pool
 2024-03-08.15:00:50 zfs destroy tank/vagrant/vagrant_storage_pool
+2024-03-16.14:02:58 zfs destroy tank/steam@nix
+2024-03-30.16:38:01 zfs rollback tank/libvirt-images/nixos@pre_archzfs
+2024-03-31.19:00:28 zfs snapshot tank/libvirt-images/nixos@2024-03-31
 

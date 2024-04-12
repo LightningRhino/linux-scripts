@@ -143,11 +143,13 @@ pipewire-pulse
 pkgfile
 poppler-glib
 power-profiles-daemon
+prometheus-node-exporter
 pv
 python
 python-packaging
 qemu-desktop
 rclone
+rdesktop
 rebuild-detector
 reflector
 reflector-simple
