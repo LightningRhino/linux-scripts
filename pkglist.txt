@@ -168,7 +168,6 @@ swtpm
 sysfsutils
 systemd-sysvcompat
 texinfo
-thefuck
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
