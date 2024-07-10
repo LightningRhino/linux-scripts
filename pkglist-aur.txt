@@ -1,3 +1,4 @@
+ansiweather
 freefilesync
 looking-glass
 quickemu
