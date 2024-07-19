@@ -134,6 +134,7 @@ ntp
 openbsd-netcat
 openssh
 os-prober
+otf-firamono-nerd
 pacman-contrib
 parole
 pavucontrol
@@ -241,3 +242,4 @@ xterm
 yay
 zfs-dkms
 zfs-utils
+zsh
