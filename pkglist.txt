@@ -97,9 +97,9 @@ libopenraw
 libwnck3
 lightdm
 lightdm-slick-greeter
-linux
 linux-firmware
-linux-headers
+linux-lts
+linux-lts-headers
 logrotate
 lsb-release
 lsd
