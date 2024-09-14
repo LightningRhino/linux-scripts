@@ -111,7 +111,6 @@ mangohud
 mdadm
 meld
 mesa-utils
-mlocate
 modemmanager
 mousepad
 mtools
@@ -143,9 +142,10 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pkgfile
+plocate
 poppler-glib
 power-profiles-daemon
-prometheus-node-exporter
+promtail
 pv
 python
 python-packaging
