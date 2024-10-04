@@ -114,4 +114,8 @@ History for 'tank':
 2024-09-14.14:54:54 zfs snapshot tank/libvirt-images/nixos@2024-09-14
 2024-09-14.14:55:12 zfs destroy tank/libvirt-images/nixos@2024-08-07
 2024-09-14.14:55:30 zfs destroy tank/libvirt-images/endeavour@2024-08-16
+2024-09-27.15:07:00 zfs snapshot tank/libvirt-images/nixos@2024-09-27
+2024-09-27.15:07:18 zfs snapshot tank/libvirt-images/endeavour@2024-09-27
+2024-09-27.15:07:35 zfs destroy tank/libvirt-images/endeavour@2024-08-30
+2024-09-27.15:07:49 zfs destroy tank/libvirt-images/nixos@2024-08-30
 

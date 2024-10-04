@@ -230,6 +230,7 @@ xfdesktop
 xfsprogs
 xfwm4
 xfwm4-themes
+xiccd
 xl2tpd
 xorg-server
 xorg-xdpyinfo

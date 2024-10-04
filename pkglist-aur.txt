@@ -6,5 +6,4 @@ sanoid
 ttf-b612
 ulauncher
 xcursor-breeze
-xiccd
 zramd
