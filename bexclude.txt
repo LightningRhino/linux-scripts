@@ -1,7 +1,5 @@
 /var/lib/libvirt/images/alpine/alpine.qcow2
 /var/lib/libvirt/images/win10-veeam/win10-veeam.qcow2
-#/var/lib/libvirt/images/nixos/NixOS.qcow2
-#/var/lib/libvirt/images/nixos/zfs.qcow2
 /root/.cache
 /home/olleg/.cache
 /home/olleg/.local/share/Trash
