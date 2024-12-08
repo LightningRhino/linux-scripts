@@ -123,4 +123,23 @@ History for 'tank':
 2024-10-10.15:06:50 zfs snapshot tank/libvirt-images/nixos@2024-10-10
 2024-10-10.15:07:02 zfs destroy tank/libvirt-images/endeavour@2024-09-03
 2024-10-10.15:07:15 zfs destroy tank/libvirt-images/nixos@2024-09-03
+2024-10-19.17:04:25 zfs rename tank/libvirt-images/endeavour tank/libvirt-images/endeavour-sandbox
+2024-10-19.17:05:09 zfs rename tank/libvirt-images/nixos tank/libvirt-images/endeavour-qa
+2024-10-25.15:33:47 zfs snapshot tank/libvirt-images/endeavour-qa@2024-10-27
+2024-10-25.15:34:06 zfs snapshot tank/libvirt-images/endeavour-sandbox@2024-10-25
+2024-10-25.15:34:18 zfs destroy tank/libvirt-images/endeavour-qa@2024-10-27
+2024-10-25.15:34:22 zfs snapshot tank/libvirt-images/endeavour-qa@2024-10-25
+2024-10-25.15:34:35 zfs destroy tank/libvirt-images/endeavour-qa@2024-09-14
+2024-10-25.15:34:44 zfs destroy tank/libvirt-images/endeavour-sandbox@2024-09-14
+2024-10-25.15:40:33 zfs destroy -r tank/libvirt-images/win10-veeam
+2024-11-01.21:26:56 zpool trim -w tank
+2024-11-14.16:55:58 zfs snapshot tank/libvirt-images/endeavour-qa@2024-11-14
+2024-11-14.16:56:11 zfs snapshot tank/libvirt-images/endeavour-sandbox@2024-11-14
+2024-11-14.16:56:27 zfs destroy tank/libvirt-images/endeavour-qa@2024-09-27
+2024-11-14.16:56:35 zfs destroy tank/libvirt-images/endeavour-sandbox@2024-09-27
+2024-11-29.15:14:21 zfs snapshot tank/libvirt-images/endeavour-qa@2024-11-29
+2024-11-29.15:14:32 zfs snapshot tank/libvirt-images/endeavour-sandbox@2024-11-29
+2024-11-29.15:14:41 zfs destroy tank/libvirt-images/endeavour-qa@2024-10-10
+2024-11-29.15:14:49 zfs destroy tank/libvirt-images/endeavour-sandbox@2024-10-10
+2024-12-01.18:04:59 zpool trim -w tank
 

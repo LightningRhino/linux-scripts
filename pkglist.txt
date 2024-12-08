@@ -90,6 +90,7 @@ iptables-nft
 iwd
 jfsutils
 less
+lib32-mangohud
 libdvdcss
 libgsf
 libguestfs
@@ -145,7 +146,6 @@ pkgfile
 plocate
 poppler-glib
 power-profiles-daemon
-promtail
 pv
 python
 python-packaging
