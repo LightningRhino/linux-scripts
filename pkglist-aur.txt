@@ -1,6 +1,5 @@
 ansiweather
 freefilesync
-looking-glass
 quickemu
 sanoid
 ttf-b612
