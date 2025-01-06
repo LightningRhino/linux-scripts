@@ -157,6 +157,7 @@ reflector
 reflector-simple
 reiserfsprogs
 ristretto
+rpmextract
 rsync
 rtkit
 s-nail
@@ -191,6 +192,7 @@ usb_modeswitch
 usbutils
 vde2
 vi
+virt-firmware
 virt-manager
 virt-viewer
 vlc

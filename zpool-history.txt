@@ -150,4 +150,7 @@ History for 'tank':
 2024-12-26.16:41:09 zfs snapshot tank/libvirt-images/endeavour-sandbox@2024-12-26
 2024-12-26.16:41:22 zfs destroy tank/libvirt-images/endeavour-qa@2024-11-14
 2024-12-26.16:41:30 zfs destroy tank/libvirt-images/endeavour-sandbox@2024-11-14
+2025-01-02.16:36:56 zpool trim -w tank
+2025-01-03.18:57:23 zfs create tank/libvirt-images/win11
+2025-01-04.16:30:09 zfs snapshot tank/libvirt-images/win11@fresh
 
