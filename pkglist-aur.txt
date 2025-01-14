@@ -1,6 +1,7 @@
 ansiweather
 freefilesync
 quickemu
+r8125-dkms
 sanoid
 ttf-b612
 ulauncher

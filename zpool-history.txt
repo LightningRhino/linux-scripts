@@ -153,4 +153,16 @@ History for 'tank':
 2025-01-02.16:36:56 zpool trim -w tank
 2025-01-03.18:57:23 zfs create tank/libvirt-images/win11
 2025-01-04.16:30:09 zfs snapshot tank/libvirt-images/win11@fresh
+2025-01-07.15:37:59 zfs create tank/libvirt-images/win10
+2025-01-07.16:16:15 zfs snapshot tank/libvirt-images/win10@fresh
+2025-01-08.18:17:24 zfs destroy tank/libvirt-images/alpine
+2025-01-08.18:18:09 zfs snapshot tank/libvirt-images/endeavour-qa@2025-01-08
+2025-01-08.18:18:33 zfs snapshot tank/libvirt-images/endeavour-sandbox@2025-01-08
+2025-01-08.18:18:54 zfs destroy tank/libvirt-images/endeavour-qa@2024-11-29
+2025-01-08.18:19:02 zfs destroy tank/libvirt-images/endeavour-sandbox@2024-11-29
+2025-01-08.18:19:44 zfs create tank/libvirt-images/cachyos-sandbox
+2025-01-09.15:57:48 zfs snapshot tank/libvirt-images/cachyos-sandbox@fresh
+2025-01-09.16:03:54 zfs rename tank/libvirt-images/win11@fresh tank/libvirt-images/win11@fresh_24H2
+2025-01-09.16:17:08 zfs destroy tank/libvirt-images/cachyos-sandbox@fresh
+2025-01-09.16:17:17 zfs snapshot tank/libvirt-images/cachyos-sandbox@fresh
 
